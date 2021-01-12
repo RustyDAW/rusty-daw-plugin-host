@@ -8,3 +8,8 @@ Audio plugin hosting for RustyDAW projects
 - [ ] auv3 plugin hosting?
 - [ ] our own custom plugin format?
 - [ ] plugin sandboxing?
+
+## User projects
+- [`vstminihost`]
+
+[`vstminihost`]: https://github.com/SolarLiner/vstminihost
